@@ -1,0 +1,6 @@
+@'
+venv/
+.env
+__pycache__/
+node_modules/
+'@ | Set-Content .gitignore -Encoding ascii
